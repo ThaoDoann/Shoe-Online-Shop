@@ -1,1 +1,1 @@
-# Shoe-Online-Shop
+# Online Shoe Shopping Web Application

@@ -1,0 +1,170 @@
+body {
+    text-align: center;
+
+}
+.SignInPage {
+	font-size: 20px;
+	background-color: lightGray;
+	text-align: left;
+    width: 500px;
+    height: 550px;
+    margin:  auto;
+    line-height: 40px;
+    padding: 35px;
+}
+.status {
+	text-align: center;
+}
+.SuccessBox, .UnsuccessBox {
+	width: 50%;
+}
+nav {
+    overflow: hidden;
+     background-color: black;
+     padding: 5px;
+}
+nav input {
+	width: 15%;
+    float: right;
+    display: block;
+    color: white;
+    background: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+nav select:hover {
+    background-color: #ddd;
+    color: black;
+}
+.SuccessBox, .UnsuccessBox {
+	background-color: gray;
+	padding: 10px;
+}
+.SuccessBox button, .UnsuccessBox button {
+	background-color: Green;
+	width: 100%;
+}
+
+.SearchBox {
+    float: right;
+    padding: 6px;
+    margin-top: 8px;
+    margin-right: 16px;
+    border: none;
+    width: 15%;
+    font-size: 17px;
+  }
+  
+
+.bar {
+    margin: auto;
+    width: 80%;
+    display: inline-block;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+/* Add padding to containers */
+.container {
+	
+	text-align: left;
+    padding: 25px;
+    background-color: lightgray;
+    width: 50%;
+    height: 100%;
+    margin: auto;
+}
+
+table, table input{
+	width: 100%;
+}
+
+/* Full-width input fields */
+input[type=text], input[type=password] {
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #f1f1f1;
+}
+
+
+input[type=text]:focus, 
+input[type=password]:focus {
+    background-color: #ddd;
+    outline: none;
+}
+.registerbtn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 16px 20px;
+    margin: 8px 0;
+    width: 100%;
+}
+
+.signIn {
+	width: 100%;
+	padding: 5px;
+	background-color: Green;
+}
+
+.message  {
+    margin: auto;
+    line-height: 10px;
+    color: darkred; 
+    width: 50%; 
+    text-align: left;
+}
+
+
+
+.bigPic {
+    margin-bottom: 50px;
+
+}
+.pic {
+    margin: 5px auto;
+    display: inline-block;
+    float: left;
+    padding: 2px;
+    width: 30%;
+}
+
+footer {
+	margin-top: 30px;
+    background-color: black;
+}
+
+footer a img {
+
+    position: relative;
+    margin: auto;
+    width: 30px;
+    height: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
